@@ -4,7 +4,7 @@ This is my first repository! So part of the point of this repository is for me t
 I'm using this repo as a space to store my data science study notes, Python cheatsheets, resources to check out later, etc.  
 
 ## 0. **A little about me**
-I'm trained in economics and international development, and I work in consulting. I started learning Python online because I wanted to work as a pre-doc RA for one of my professors during my master's degree, and being able to write code was one of the key requirements. I ended up not even getting an interview for the RA position, and started working for a small consulting firm instead, where the Python stuff turned out to be super useful, so I continued learning. 
+I'm trained in economics and international development, and I work in consulting. I started learning Python online because I wanted to work as a pre-doc RA for one of my professors during my master's degree, and being able to write code was one of the key requirements. I ended up not even getting an interview for the RA position, and started working for a small consulting firm instead in 2020, where the Python stuff turned out to be super useful, so I continued learning. 
 
 ## 1. Online learning
 
