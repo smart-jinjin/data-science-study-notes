@@ -7,11 +7,14 @@ I'm using this repo as a space to store my data science study notes, Python chea
 
 I'm trained in economics and international development, and I work in consulting. I started learning Python online because I wanted to work as a pre-doc RA for one of my professors during my master's degree, and being able to write code was one of the key requirements. I ended up not even getting an interview for the RA position, and started working for a small consulting firm instead, where the Python stuff turned out to be super useful, so I continued learning. 
 
-So far I've been almost entirely Coursera-taught so I'm a big fan. I've finished the [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) offered by the University of Michigan on Coursera, which you can supposedly finish within a couple months instead of 24 - but hey I survived! And I kind of enjoyed it, too, which is why I've continued learning Python, a little bit of data science, and hopefully I'll go on to learn more about computer science in general.
+## **Finished:**
+1. The [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) **specialisation** offered by the University of Michigan on Coursera, which you can supposedly finish within a couple months instead of 24 - but hey I survived! And I kind of enjoyed it, too, which is why I've continued learning Python, a little bit of data science, and hopefully I'll go on to learn more about computer science in general.
+2. **Course 1** [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) in the [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) specialisation. The course is beginner-friendly, the explanations are all very intuitive. The only bad thing about it is that a year from taking the course, I don't remember a thing from it.
+3. **Course 2** [Introduction to Structured Query Language (SQL)]() in the [Web Applications for Everybody](https://www.coursera.org/specializations/web-applications) specialisation. 
 
 ## **Now learning:**
 
-1. Course 1 [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) in the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python). (20231109)
+1. **Course 1** [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) in the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python). (20231109)
 
 ## **Now procrastinating:**
 
