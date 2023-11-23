@@ -28,3 +28,6 @@ I'm trained in economics and international development, and I work in consulting
 ## 3. Inspirations
 - [I changed to a career in tech at 29 and here's how I did it](https://medium.com/@jamiefurlong16/i-changed-to-a-career-in-tech-at-29-and-heres-how-i-did-it-545d14629719), by Jamie Furlong
 - [UMich MADS curriculum](https://www.si.umich.edu/programs/master-applied-data-science/curriculum)
+
+## 4. Jobs???
+- [Yipit Data - Data Specialist - Singapore](https://boards.greenhouse.io/yipitdata/jobs/2526004?gh_src=25c597b41us)
